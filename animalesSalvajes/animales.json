@@ -1,30 +1,29 @@
 {
-    "animales": [
-      {
-        "name": "Leon",
-        "imagen": "Leon.png",
-        "sonido":"Rugido.mp3"
-      },
-      {
-        "name": "Lobo",
-        "imagen": "Lobo.jpg",
-        "sonido":"Aullido.mp3"
-      },
-      {
-        "name": "Oso",
-        "imagen": "Oso.jpg",
-        "sonido":"Gruñido.mp3"
-      },
-      {
-        "name": "Serpiente",
-        "imagen": "Serpiente.jpg",
-        "sonido":"Siseo.mp3"
-      },
-      {
-        "name": "Aguila",
-        "imagen": "Aguila.png",
-        "sonido":"Chillido.mp3"
-      }
-     
-    ]
-  }
+  "animales": [
+    {
+      "name": "Leon",
+      "imagen": "Leon.png",
+      "sonido": "assets_sounds_Rugido.mp3"
+    },
+    {
+      "name": "Lobo",
+      "imagen": "Lobo.jpg",
+      "sonido": "assets_sounds_Aullido.mp3"
+    },
+    {
+      "name": "Oso",
+      "imagen": "Oso.jpg",
+      "sonido": "assets_sounds_Gruñido.mp3"
+    },
+    {
+      "name": "Serpiente",
+      "imagen": "Serpiente.jpg",
+      "sonido": "assets_sounds_Siseo.mp3"
+    },
+    {
+      "name": "Aguila",
+      "imagen": "Aguila.png",
+      "sonido": "assets_sounds_Chillido.mp3"
+    }
+  ]
+}
